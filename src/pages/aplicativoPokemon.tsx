@@ -7,7 +7,7 @@ export default function AplicativoPokemon(this: any){
     const pngPokemon = useRef(null);
     //imagen pokemon
 
-    //lista pokemon
+    //lista pokemonn
     const [listapokemon, setListaPokemon] = useState([]);
     //lista pokemon
 
